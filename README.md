@@ -1,4 +1,4 @@
-### Hi there! <img src="https://cdn3.emoji.gg/emojis/99733-mandalorianhello.gif" width="25"/>
+### Hi there! <img src="https://cdn3.emoji.gg/emojis/99733-mandalorianhello.gif" width="40"/>
 
 I'm Vivi, a student learning the art of coding and web development
 I am an aspiring developer and student exploring the realms of code. 
