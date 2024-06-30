@@ -1,7 +1,6 @@
 ### Hi there! <img src="https://cdn3.emoji.gg/emojis/99733-mandalorianhello.gif" width="38"/>
 
 I'm Vivi, a student learning the art of coding and web development
-I am an aspiring developer and student exploring the realms of code. 
 
 - I'm currently learning the ropes of coding with JavaScript, Java, and Python. Student by day, coder by night!
 - I'm interested in building robust applications and exploring the endless possibilities of tech innovation. 
